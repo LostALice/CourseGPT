@@ -2,6 +2,10 @@
 /Scripts
 /Lib
 /Include
+/share
+
+/LLM/bge-large-zh
+/LLM/chatglm3-6b
 
 # files
 pyvenv.cfg
