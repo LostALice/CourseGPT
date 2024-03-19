@@ -1,11 +1,21 @@
 # floder
+# ===================
+# python env
 /Scripts
 /Lib
 /Include
 /share
 
+# LLM
 /LLM/bge-large-zh
 /LLM/chatglm3-6b
+# ===================
 
 # files
+# ===================
+# python env
 pyvenv.cfg
+
+# testing file
+test.*
+# ===================
